@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhijithsharma
+- 👋 Hi, I’m @Abhijith
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JavaScript and React Native 
 - 💞️ I’m looking to collaborate on ...
